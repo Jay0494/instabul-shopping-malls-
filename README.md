@@ -1,10 +1,12 @@
 # instabul-shopping-malls-
 **Introduction**
-
 The analysis of sales data from multiple malls in Istanbul between 2021 and 2022 provides insights into sales growth, customer preferences, payment trends, and the performance metrics of individual malls. The overall analysis highlights the general economic environment, changes in consumer behavior, and opportunities to improve performance.
 
 ---
+In the data cleaning process, I standardized the data to ensure consistency, making it easier to analyze and interpret. This involved harmonizing formats for dates, values, and text entries. After standardization, I organized the data into fact and dimension tables. Fact tables focused on measurable sales data (like revenue, units sold, and sales dates), while dimension tables categorized supporting details (like customer demographics, payment methods, and product types).
 
+
+---
 **Insights**
 
 1. **Sales Performance and Growth**:
